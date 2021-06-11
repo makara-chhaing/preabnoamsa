@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Baksey Noam Sa</string>
+    <string name="User">ឈ្មោះគណនី</string>
+    <string name="already_have_an_account_sign_in">មានគណនីហើយ?​ចូល</string>
+    <string name="don_t_have_an_accout_sign_up">មិនទាន់មានគណនី?​​បង្កើតថ្មី</string>
+    <string name="email">អីុមែល</string>
+    <string name="enter_message">បញ្ចូលសារ</string>
+    <string name="login">ចូលគណនី</string>
+    <string name="password">លេខសម្ងាត់</string>
+    <string name="register">​​បង្កើតគណនី</string>
+    <string name="select_your_photo">រើសរូប</string>
+    <string name="send">បញ្ជូន</string>
+</resources>
